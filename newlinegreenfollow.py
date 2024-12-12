@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-"""follower_ros.py: TurtleBot3 will follow the Green Line and stop when the line ends"""
-
-__author__ = "Arjun S Kumar"
-
 import rospy
 import cv2
 import cv_bridge
